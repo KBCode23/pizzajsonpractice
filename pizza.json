@@ -1,0 +1,38 @@
+{
+"pizzaTypes" : [
+    {
+      "name" : "Classic Pepperoni",
+      "price" : 9.75,
+      "size" : "large",
+      "toppings" : [
+        "cheese",
+        "pepperoni"
+      ],
+      "image" : "pizza-1.jpg"
+    },
+    {
+      "name" : "Veggie Delight",
+      "price" : 12.95,
+      "size" : "small",
+      "toppings" : [
+        "cheese",
+        "tomato",
+        "artichoke",
+        "black olives"
+      ],
+      "image" : "pizza-2.jpg"
+    },
+    {
+      "name" : "Kristian's Favourite",
+      "price" : 13.50,
+      "size" : "large",
+      "toppings" : [
+        "cheese",
+        "anchovies",
+        "black olives",
+        "pepperoni",
+        "onions"
+      ]
+    }
+  ]
+}
